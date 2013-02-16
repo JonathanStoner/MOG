@@ -1,0 +1,32 @@
+/* 
+    Document   : map_style
+    Created on : Feb 9, 2013, 7:31:51 PM
+    Author     : jonathanstoner
+    Description:
+        Purpose of the stylesheet follows.
+*/
+body {
+/*    background-color:#aaa;
+/** /	height: 48px;
+	width: 48px;
+	background-repeat: no-repeat;
+    background-image: url(../images/village.png); /**/
+}
+.clear
+{
+    clear:both;
+}
+.zone
+{
+	height: 48px;
+	width: 48px;
+	min-height: 48px;
+	min-width: 48px;
+	background-repeat: no-repeat;
+        float:left;
+        border: 1px;
+} 
+.grass{background-image: url(../images/grass.png);}
+.mountain{background-image: url(../images/mountain.png);}
+.village{background-image: url(../images/village.png);}
+.water{background-image: url(../images/water.png);}
